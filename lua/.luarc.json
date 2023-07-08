@@ -1,0 +1,16 @@
+{
+    "workspace.library": [
+        "/home/danny/.config/nvim",
+        "/home/danny/.local/share/nvim./lazy/lazy.nvim",
+        "/home/danny/.local/share/nvim/lazy/mason.nvim",
+        "/home/danny/.local/share/nvim/lazy/nvim-treesitter",
+        "/home/danny/.local/share/nvim/lazy/nvim-lspconfig",
+        "/home/danny/.local/share/nvim/lazy/plenary.nvim",
+        "/home/danny/.local/share/nvim/lazy/harpoon",
+        "/squashfs-root/usr/share/nvim/runtime",
+        "/squashfs-root/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/squashfs-root/usr/lib/nvim",
+        "/home/danny/.local/state/nvim/lazy/readme",
+        "${3rd}/luassert/library"
+    ]
+}
