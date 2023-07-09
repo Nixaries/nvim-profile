@@ -33,7 +33,9 @@ local plugins = {
 	    lazy = false
 	},
 	'hrsh7th/nvim-cmp',
-	'hrsh7th/vim-vsnip',
+	'hrsh7th/cmp-nvim-lsp',
+	'saadparwaiz1/cmp_luasnip',
+	'L3MON4D3/LuaSnip',
 	{
 		"oxfist/night-owl.nvim",
 		lazy = false, -- make sure we load this during startup if it is your main colorscheme
