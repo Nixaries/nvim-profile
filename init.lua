@@ -1,5 +1,4 @@
-require("plugins")
 require("bindings")
+require("plugins")
 require("lsp")
-require("complete")
 require("config")
