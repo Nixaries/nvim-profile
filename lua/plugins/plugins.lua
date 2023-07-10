@@ -52,7 +52,8 @@ local plugins = {
 			-- load the colorscheme here
 			vim.cmd.colorscheme("night-owl")
 		end,
-	}
+	},
+	'tmsvg/pear-tree',
 }
 
 local opts = {}
